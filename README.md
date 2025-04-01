@@ -24,6 +24,12 @@
 ![Static Badge](https://img.shields.io/badge/Linux%20Mint-6ad254?style=flat&logo=linuxmint&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Kali%20Linux-0057e7?style=flat&logo=kalilinux&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Windows-03a9f4?style=flat&logo=quarto&logoColor=ffffff)
+
+<div align="center">
+  <td width="50%" align="center">
+    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=raulsoftdev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"/>
+  </td>
+</div>
 <!--
 **RaulSoftDev/RaulSoftDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
