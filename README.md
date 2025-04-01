@@ -27,13 +27,13 @@
 
 ## Languages Stats
 <div align="left">
-  <img width="375" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulSoftDev&theme=algolia&show_icons=true&hide_border=true&layout=compact">
+  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulSoftDev&theme=algolia&show_icons=true&hide_border=true&layout=compact">
 </div>
 
 ## Profile Stats
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=RaulSoftDev&theme=algolia&show_icons=true&hide_border=true&count_private=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaulSoftDev&theme=algolia&hide_border=true">
+  <img width="380" src="https://github-readme-stats.vercel.app/api?username=RaulSoftDev&theme=algolia&show_icons=true&hide_border=true&count_private=true">
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=RaulSoftDev&theme=algolia&hide_border=true">
 </div>
   
 <!--
