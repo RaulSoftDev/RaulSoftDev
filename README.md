@@ -32,9 +32,12 @@
 
 ## Profile Stats
 <div>
-  <img width="380" src="https://github-readme-stats.vercel.app/api?username=RaulSoftDev&theme=algolia&show_icons=true&hide_border=true&count_private=true">
+  <img  width="495" src="https://github-readme-stats.vercel.app/api?username=RaulSoftDev&theme=algolia&show_icons=true&hide_border=true&count_private=true">
 </div>
-  
+
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaulSoftDev&theme=algolia&hide_border=true">
+</div>
 <!--
 **RaulSoftDev/RaulSoftDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
